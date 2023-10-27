@@ -149,5 +149,5 @@
   <p>If you would like to donate at all then you can do so below! Donations are not expected whatsoever but are greatly appreciaate if you feel inclined to do so :)</p>
 
   <a href="https://github.com/sponsors/0xdane"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /><a>
-  <a href="paypal.me/daaane"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /><a>
+  <a href="https://paypal.me/daaane"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /><a>
 </p>
