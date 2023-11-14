@@ -4,7 +4,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/github/stars/0xdane/Streamdeck-Profiles.svg?style=social&label=Star&maxAge=2592000" />
+  <img src="https://img.shields.io/github/stars/0xdane/Streamdeck-Profiles.svg?style=social&label=Star" />
   <img src="https://img.shields.io/github/license/0xdane/Streamdeck-Profiles.svg" />
 </p>
 
