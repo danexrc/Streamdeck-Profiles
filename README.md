@@ -27,12 +27,12 @@
   <hr>
   
   <p align='center'>
-    <img src="https://i.imgur.com/LR8qhKt.png" />
-    <img src="https://i.imgur.com/bzKcIWG.jpg" />
+    <img src="https://i.imgur.com/OuzVX4v.png" />
+    <img src="https://i.imgur.com/LmtQYIA.jpeg" />
   </p>
 
   <p align='center'>
-    <p><b>Please note: You must import the <u>streamdeck-hotkeys-af.afshort</u> hotkey file in the mapping settings within Affinity Photo to enable full functionality of the profile. This contains updated mappings for various adjustment controls.</b></p>
+    <p><b>Please note: You must import the <u>"streamdeck-hotkeys-photo.afshort"</u> hotkey file in the mapping settings within Affinity Photo to enable full functionality of the profile. This contains updated mappings for various adjustment controls.</b></p>
   </p>
   
   <hr>
@@ -71,12 +71,56 @@
   <hr>
   
   <p align='center'>
-    <img src="https://i.imgur.com/r5ULHJs.png" />
-    <img src="https://i.imgur.com/14z2LzR.jpg" />
+    <img src="https://i.imgur.com/euAPzgq.png" />
+    <img src="https://i.imgur.com/G0uGX1w.jpeg" />
   </p>
 
   <p align='center'>
-    <p><b>Please note: You must import the <u>streamdeck-hotkeys-ad.afshort</u> hotkey file in the mapping settings within Affinity Designer to enable full functionality of the profile. This contains updated mappings for various adjustment controls.</b></p>
+    <p><b>Please note: You must import the <u>"streamdeck-hotkeys-designer.afshort"</u> hotkey file in the mapping settings within Affinity Designer to enable full functionality of the profile. This contains updated mappings for various adjustment controls.</b></p>
+  </p>
+  
+  <hr>
+
+  <p align='center'>
+  <h3>How to import the hotkey mapping file</h3>
+  </p>
+  
+
+  <p align='center'>
+  <ol>
+    <li>Select "Edit" > "Settings".</li>
+    <img src="https://github.com/0xdane/Streamdeck-Profiles/assets/19695822/bb39b31e-9476-4bfe-a5b7-e6150b6037ea" />
+    <li>Select "Shortcuts" from the left side menu and select the "Load" button</li>
+    <img src="https://github.com/0xdane/Streamdeck-Profiles/assets/19695822/8391bffd-bd52-4499-a5b6-cf0df7fd4e59" />
+    <li>Select the <b>.afshort</b> file and select open</li>
+    <li>You're all done! :)</li>
+  </ol>
+  </p>
+
+  <p align='center'>
+    <p><b>This profile is only configured for the Stream Deck XL 32-key device however this can be imported and adjusted as needed for the smaller devices.</b></p>
+  </p>
+</details>
+
+<details>
+  <summary><h2>Affinity Publisher</h2></summary>
+  <p align='center'>
+    <h2>Affinity Publisher</h2>
+    <br>
+    <p>This is a streamdeck profile that I have created for Affinity Publisher which includes macros for common tools & adjustments.</p>
+    <br>
+    <p><b>You can find the files <a href="https://github.com/0xdane/Streamdeck-Profiles/tree/main/Affinity%20Publisher">HERE</a></b></p>
+  </p>
+
+  <hr>
+  
+  <p align='center'>
+    <img src="https://i.imgur.com/dct6Y3L.png" />
+    <img src="https://i.imgur.com/QdgkmAs.jpeg" />
+  </p>
+
+  <p align='center'>
+    <p><b>Please note: You must import the <u>"streamdeck-hotkeys-publisher.afshort"</u> hotkey file in the mapping settings within Affinity Publisher to enable full functionality of the profile. This contains updated mappings for various adjustment controls.</b></p>
   </p>
   
   <hr>
